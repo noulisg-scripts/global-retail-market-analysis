@@ -50,6 +50,11 @@ scripts/
 - Naive Bayes
 - Model evaluation using confusion matrix
 
+## Visualizations
+
+![Sales by Country](outputs/figures/country_sales.png)
+![Monthly Sales](outputs/figures/monthly_sales.png)
+
 ---
 
 ## Results
