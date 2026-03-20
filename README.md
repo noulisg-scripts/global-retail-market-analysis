@@ -28,6 +28,15 @@ scripts/
 ├── 03_store_sales_modeling.R
 └── 04_ad_click_classification.R
 
+## Dataset
+
+The datasets used in this project are not included in the repository due to size or licensing restrictions.
+To run the project, place the following files inside the `data/` folder:
+- sales_data_sample.csv
+- Features data set.csv
+- sales data-set.csv
+- stores data-set.csv
+- advertising.csv
 ---
 
 ## Key Analysis
